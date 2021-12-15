@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### Things I Enjoy
+1. ☕
+2. 🍫
+3. 📚
